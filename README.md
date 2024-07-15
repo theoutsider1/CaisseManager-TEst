@@ -1,1 +1,3 @@
-# CaisseManager-TEst
+# CaisseManager-Test
+
+To do list 
